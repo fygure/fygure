@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Max (@fygure)
-- 💻 Web Developer at https://github.com/CougarCS (University of Houston)
+- 💻 Web Developer at [Cougar CS](https://github.com/CougarCS) (University of Houston)
 - 👀 I’m interested in learning new things and acquiring an internship
 - 🌱 I’m currently honing my programming skills
 - 💞️ I’m looking to collaborate on any type of co-op projects or team related project
