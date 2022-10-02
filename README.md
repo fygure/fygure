@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Max (@fygure)
+- 💻 Web Developer @CougarCS (University of Houston)
 - 👀 I’m interested in learning new things and acquiring an internship
-- 🌱 I’m currently learning how to create a fullstack web app using the MERN stack  
+- 🌱 I’m currently honing my programming skills
 - 💞️ I’m looking to collaborate on any type of co-op projects or team related project
 - 📫 How to reach me: send me a message on here or you can contact me via email at: polarizingmax@gmail.com
 
