@@ -3,7 +3,7 @@
 - 👀 I’m interested in learning new things and acquiring an internship
 - 🌱 I’m currently honing my programming skills
 - 💞️ I’m looking to collaborate on any type of co-op projects or team related project
-- 📫 How to reach me: send me a message on here or you can contact me via email at: polarizingmax@gmail.com
+- 📫 How to reach me: send me a message on here!
 
 <!---
 fygure/fygure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
