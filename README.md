@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Max (@fygure)
+- 👋 Hi, I’m Max [(@fygure1)](https://twitter.com/home)
 - 💻 Web Developer at [Cougar CS](https://github.com/CougarCS) (University of Houston)
 - 👀 I’m interested in learning new things and acquiring an internship
 - 🌱 I’m currently honing my programming skills
