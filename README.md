@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Max [(@fygure1)](https://twitter.com/fygure1)
+- 👋 Hi, I’m Max
 - 💻 Script wrtier at CVS | Web Dev at [Cougar CS](https://github.com/CougarCS)
-- 🌱 I’m currently honing my programming skills
-- 📫 Send me a message on [linkedin](https://www.linkedin.com/in/maximillianchalitsios/)
+- 📫 [linkedin](https://www.linkedin.com/in/maximillianchalitsios/)
 
 <!---
 fygure/fygure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
