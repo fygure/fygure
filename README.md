@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Max [(@fygure1)](https://twitter.com/fygure1)
-- 💻 Cloud Security Engineer at CVS | Web Developer at [Cougar CS](https://github.com/CougarCS) (University of Houston)
+- 💻 Script wrtier at CVS | Web Developer at [Cougar CS](https://github.com/CougarCS) (University of Houston)
 - 🌱 I’m currently honing my programming skills
 - 📫 Send me a message on [linkedin](https://www.linkedin.com/in/maximillianchalitsios/)
 
