@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Max
-- 💻 Script wrtier at CVS | Web Dev at [Cougar CS](https://github.com/CougarCS)
+- 💻 Script writer for CVS | Web Dev at [Cougar CS](https://github.com/CougarCS)
 - 📫 [linkedin](https://www.linkedin.com/in/maximillianchalitsios/)
 
 <!---
