@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Max
-- 💻 Software Developer | Director of Corporate Relations and Web Dev at [Cougar CS](https://github.com/CougarCS)
+- 💻 Software Developer
 - 📫 [linkedin](https://www.linkedin.com/in/maximillianchalitsios/)
 
 <!---
