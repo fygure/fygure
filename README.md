@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Max
-- 💻 Software Developer
+- 💻 Software Developer with interests in web development and cloud computing
 - 📫 [linkedin](https://www.linkedin.com/in/maximillianchalitsios/)
 
 <!---
