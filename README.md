@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Max
 - 💻 Software Developer with interests in web development and cloud computing
 - 📫 Connect with me: [linkedin](https://www.linkedin.com/in/maximillianchalitsios/)
+- 🖥️ Website in progress: [Who am I?](https://www.maxchalitsios.com/)
 
 <!---
 fygure/fygure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
