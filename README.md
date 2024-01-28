@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Max
+- 💡 I prefer light mode
 - 💻 Software Developer with interests in web development and cloud computing
 - 📫 Connect with me: [linkedin](https://www.linkedin.com/in/maximillianchalitsios/)
 - 🖥️ Website in progress: [Who am I?](https://www.maxchalitsios.com/)
