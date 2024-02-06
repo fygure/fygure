@@ -10,7 +10,7 @@
 - Currently seeking new job opportunity
 - Personal website [link](https://www.maxchalitsios.com/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://fygure-resume-bucket.s3.amazonaws.com/maximillian_chalitsios.pdf)
-- Previous clients: CVS, [CHLK](https://demo.chlk.football/bypass), [Yusra](https://www.yusra.io/home), [AlphaNB](https://www.alphanb.com/)
+- Previous clients: [CVS](https://www.cvshealth.com/), [CHLK](https://demo.chlk.football/bypass), [Yusra](https://www.yusra.io/home), [AlphaNB](https://www.alphanb.com/)
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
