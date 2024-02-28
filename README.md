@@ -7,6 +7,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> About Me</b>
 
 - Currently thinking of ways to beat the AI resume screening system
+- INTERVIEW TMR WOO
 - Personal website [link](https://www.maxchalitsios.com/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://fygure-resume-bucket.s3.amazonaws.com/maximillian_chalitsios.pdf)
 - Previous clients: [CVS](https://www.cvshealth.com/), [CHLK](https://demo.chlk.football/bypass), [Yusra](https://www.yusra.io/home), [AlphaNB](https://www.alphanb.com/)
