@@ -9,7 +9,7 @@
 - Always looking to learn new things
 - Personal website [link](https://www.maxchalitsios.com/)
 - Graduate student at <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Rice_Owls_logo.svg" width="14" alt="Rice University Logo"> Rice University for a Master's degree in Computer Science
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://fygure-resume-bucket.s3.amazonaws.com/maximillian_chalitsios.pdf)
+- Backend Developer at [EOG Resources](https://www.eogresources.com/)
 - Previous clients: [CVS](https://www.cvshealth.com/), [CHLK](https://demo.chlk.football/bypass), [Yusra](https://www.yusra.io/home), [AlphaNB](https://www.alphanb.com/)
 
 
