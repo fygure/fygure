@@ -7,7 +7,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> About Me</b>
 
 - Always looking to learn new things
-- Graduate student at <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Rice_Owls_logo.svg" width="14" alt="Rice University Logo"> Rice University for a Master's degree in Computer Science
+- Graduate student at <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Rice_Owls_logo.svg" width="14" alt="Rice University Logo"> Rice University
 - Data Engineer at [EOG Resources](https://www.eogresources.com/)
 - Previous clients: [CVS](https://www.cvshealth.com/), [CHLK](https://demo.chlk.football/bypass), [Yusra](https://www.yusra.io/home), [AlphaNB](https://www.alphanb.com/)
 
