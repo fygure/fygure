@@ -7,7 +7,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> About Me</b>
 
 - Always looking to learn new things
-- Previous clients: [CVS](https://www.cvshealth.com/), [CHLK](https://demo.chlk.football/bypass), [Yusra](https://www.yusra.io/home), [AlphaNB](https://www.alphanb.com/)
+- Previous clients: [CVS](https://www.cvshealth.com/), [CHLK](https://www.chlkapp.com/), [Yusra](https://www.yusra.io/home), [AlphaNB](https://www.alphanb.com/)
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
